@@ -32,9 +32,13 @@ color: white;
       top: 0;
       width: 100%;
     } 
-  
-  
   }
+  @media screen and (max-width: 768px) {
+    .nav-height{
+      padding:8px 1px;
+    }
+  }
+
 
 /* slides section */
 #hero{
